@@ -17,6 +17,6 @@ After completing Andrew Ng's specialization course on machine learning, I am try
 - 🌱 I’m currently learning ML pipelines on <a href='https://www.codecademy.com/learn'>codecademy</a>
 - 🤔 I’m looking for help with making my CNN model on CCTV footage more accuracte.
 - 📫 How to reach me: milaiwi@outlook.com
-<p alight='center'>
+<p align='center'>
   <img src='coding.gif' alt='animated'/>  
 </p>
