@@ -19,5 +19,5 @@ After completing Andrew Ng's specialization course on machine learning, I am try
 - 📫 How to reach me: milaiwi@outlook.com
 
 <p align='center'>
-  <img src='[coding.gif](https://tenor.com/view/coding-gif-18657810)' alt='animated'/>  
+  <img src='(https://tenor.com/view/coding-gif-18657810)' alt='animated'/>  
 </p>
