@@ -15,7 +15,7 @@ After completing Andrew Ng's specialization course on machine learning, I am try
 
 - 🔭 I’m currently working on <a href='https://www.kaggle.com/competitions/hubmap-organ-segmentation'>HubMap's organ segmentation</a> challenge. 
 - 🌱 I’m currently learning ML pipelines on <a href='https://www.codecademy.com/learn'>codecademy</a>
-- <p style='align:left;'>'![coding](https://user-images.githubusercontent.com/104045909/185210036-29276bb2-330c-42af-9d20-4c8dfc48dd0b.gif)</p>
+- <p style='align:left;'>'![coding](https://user-images.githubusercontent.com/104045909/185210036-29276bb2-330c-42af-9d20-4c8dfc48dd0b.gif)'</p>
 - 🤔 I’m looking for help with making my CNN model on CCTV footage more accuracte.
 - 📫 How to reach me: milaiwi@outlook.com
 
