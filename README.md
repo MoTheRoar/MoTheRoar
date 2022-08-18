@@ -13,11 +13,13 @@ After completing Andrew Ng's specialization course on machine learning, I am try
 
 #### Personal stuff:
 
+<p>
+  <img align='right' width='300' src='https://tenor.com/view/coding-gif-18657810.gif'/>
+</p>
+
+
 - 🔭 I’m currently working on <a href='https://www.kaggle.com/competitions/hubmap-organ-segmentation'>HubMap's organ segmentation</a> challenge. 
 - 🌱 I’m currently learning ML pipelines on <a href='https://www.codecademy.com/learn'>codecademy</a>
-- 🤔 I’m looking for help with making my CNN model on CCTV footage more accuracte.
+- 🤔 I’m looking for help with making my CNN model on CCTV footage more accurate.
 - 📫 How to reach me: milaiwi@outlook.com
 
-<p align='center'>
-  <img src='(https://tenor.com/view/coding-gif-18657810)' alt='animated'/>  
-</p>
